@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-    s.name         = "LZHToolsKit"
+    s.name         = "LZHMangerTools"
     s.version      = "1.0.0"
     s.summary      = "custom Tools"
     s.homepage     = "https://github.com/liuzhenhan/LZHMangerTools"
