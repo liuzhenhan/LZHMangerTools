@@ -9,6 +9,8 @@
 import Foundation
 import UIKit
 
+
+
 public protocol ViewPagerDataSource: class {
 
     /// Number of pages to be displayed
